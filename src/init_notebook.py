@@ -14,7 +14,7 @@ import matplotlib.colors as mplt_colors
 import importlib
 
 # dark like the world without any solar
-plt.style.use('dark_background')
+# plt.style.use('dark_background')
 
 
 class MatplotlibCMapAliases:
